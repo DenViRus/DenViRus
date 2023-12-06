@@ -4,7 +4,7 @@
 **📓 I’ve started learning Frontend development in 2021 and I'm really excited about it.**
 
 
-**📜 You can find information about my skills, education and projects in [my CV]().**
+**📜 You can find information about my skills, education and projects in [my CV](https://denvirus.github.io/denis-online-cv/).**
 
 
 **💻 I hope to start my way as Junior front-end developer in the near future.**
